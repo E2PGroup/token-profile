@@ -4,6 +4,7 @@ E2P Token Profile
 E2P platform offer various types of services to new businesses to build themselves as complete businesses seeking to deliver a product/service concept to market.
 
 website: https://e2p.vip
+
 whitepaper: https://e2p.vip/KR_E2P_Whitepaper_v2.0.pdf
 
 SNS links
